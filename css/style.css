@@ -1,0 +1,22 @@
+.merida {
+    color:#EE621B;
+    display: inline-block;
+}
+.margin {
+    margin-top: 200px;
+    margin-left: 50px;
+    /* margin:100px 0px 0px 50px ; */
+    background-color:red
+}
+.pad {
+    padding-top:200px;
+    background-color:blue;
+    color: white;
+    font-size: 62px;
+    text-align: center;
+    border: 15px solid green;
+}
+.para {
+    font-size: 50px;
+    font-weight: 700;
+}
